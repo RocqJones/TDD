@@ -35,6 +35,6 @@ class Calculator {
 When following a TDD-style approach, this is even more true. In order to drive out more complex behaviour, we add tests for other cases.
 
 ## Shortcuts
+- In your main class, use "⌘Сmd N" to create a new test class. Select `JUnit5` as the testing library.
 - In your test class, use "⌘Сmd N" to create a new test function.
 - From inside the test, press "⌃ Ctrl ⇧ Shift R" to run this individual test `CalculatorTest`.
-- 
